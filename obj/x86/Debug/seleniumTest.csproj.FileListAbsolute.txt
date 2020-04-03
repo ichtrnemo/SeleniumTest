@@ -1,0 +1,8 @@
+C:\Users\Ivan\documents\visual studio 2010\Projects\seleniumTest\seleniumTest\bin\Debug\seleniumTest.exe
+C:\Users\Ivan\documents\visual studio 2010\Projects\seleniumTest\seleniumTest\bin\Debug\seleniumTest.pdb
+C:\Users\Ivan\documents\visual studio 2010\Projects\seleniumTest\seleniumTest\obj\x86\Debug\seleniumTest.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2010\Projects\seleniumTest\seleniumTest\obj\x86\Debug\seleniumTest.Form1.resources
+C:\Users\Ivan\documents\visual studio 2010\Projects\seleniumTest\seleniumTest\obj\x86\Debug\seleniumTest.Properties.Resources.resources
+C:\Users\Ivan\documents\visual studio 2010\Projects\seleniumTest\seleniumTest\obj\x86\Debug\seleniumTest.csproj.GenerateResource.Cache
+C:\Users\Ivan\documents\visual studio 2010\Projects\seleniumTest\seleniumTest\obj\x86\Debug\seleniumTest.exe
+C:\Users\Ivan\documents\visual studio 2010\Projects\seleniumTest\seleniumTest\obj\x86\Debug\seleniumTest.pdb
